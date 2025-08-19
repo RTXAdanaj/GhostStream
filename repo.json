@@ -2,7 +2,7 @@
   "name": "GhostStream",
   "description": "Repo custom by RTXAdnaj – Netflix, Prime, Anime Sama, VoirAnime",
   "manifestVersion": 1,
-  "pluginLists": [
+  "plugins": [
     {
       "name": "Netflix",
       "url": "https://raw.githubusercontent.com/RTXAdanaj/GhostStream/main/builds/netflix.cs3"
