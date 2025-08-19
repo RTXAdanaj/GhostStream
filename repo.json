@@ -1,23 +1,23 @@
 {
-  "name": "Waguri Supremacy",
-  "description": "Repo custom by the Goat – Netflix, Prime, Anime Sama, VoirAnime",
+  "name": "GhostStream",
+  "description": "Repo custom by RTXAdnaj – Netflix, Prime, Anime Sama, VoirAnime",
   "manifestVersion": 1,
   "pluginLists": [
     {
       "name": "Netflix",
-      "url": "./builds/netflix.cs3"
+      "url": "https://raw.githubusercontent.com/RTXAdanaj/GhostStream/main/builds/netflix.cs3"
     },
     {
       "name": "Amazon Prime Video",
-      "url": "./builds/primevideo.cs3"
+      "url": "https://raw.githubusercontent.com/RTXAdanaj/GhostStream/main/builds/primevideo.cs3"
     },
     {
       "name": "Anime Sama",
-      "url": "./builds/animesama.cs3"
+      "url": "https://raw.githubusercontent.com/RTXAdanaj/GhostStream/main/builds/animesama.cs3"
     },
     {
       "name": "VoirAnime",
-      "url": "./builds/voiranime.cs3"
+      "url": "https://raw.githubusercontent.com/RTXAdanaj/GhostStream/main/builds/voiranime.cs3"
     }
   ]
 }
